@@ -1,4 +1,4 @@
-package com.markToDo;
+package com.mark_to_do.model;
 
 public class Task {
 	private long id;
